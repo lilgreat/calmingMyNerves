@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Hello my name is LIlya and i love my pastat
 hhahhshs
 jajaja
 hajajaj
 ajaaaha
 jahsvdbsbsje
+=======
+Hello i am Lilya
+
+
+Hahahahaha
+
+i am an alien i and love it
+>>>>>>> alien-life

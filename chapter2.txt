@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hejwkhdjjdsbdj
 dbjsbcsbdsjdwb
 
@@ -12,3 +13,9 @@ jsnjsdnsdjnsjn
 sdnksdnsdkns
 
 snksnksnknkk
+=======
+And i am kinda anxious
+
+
+cause im an alien
+>>>>>>> alien-life
